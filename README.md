@@ -1,5 +1,3 @@
-# CardiacArrest_Mortality_ICU_Predictive_Model
-
 ## Overview  
 This repository provides code, documentation, and resources for building a **predictive model** to assess in-hospital mortality risk for ICU patients with cardiac arrest (CA). The model leverages data from **MIMIC-IV**, **Phecodes**, and **MDClone** to identify key predictors, support clinical decision-making, and enhance patient outcomes.
 
