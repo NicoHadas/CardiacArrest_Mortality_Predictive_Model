@@ -11,7 +11,7 @@ This repository provides code, documentation, and resources for building a **pre
 
 ---
 
-## Key Deliverables  
+## Key Deliverables and Repository Navigation 
 - Code for model training, testing, and evaluation  
 - Documentation detailing data preprocessing, feature engineering, and model evaluation  
 - Insights into significant predictors and their clinical relevance
