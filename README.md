@@ -14,4 +14,13 @@ This repository provides code, documentation, and resources for building a **pre
 ## Key Deliverables  
 - Code for model training, testing, and evaluation  
 - Documentation detailing data preprocessing, feature engineering, and model evaluation  
-- Insights into significant predictors and their clinical relevance  
+- Insights into significant predictors and their clinical relevance
+
+### Initial_Data_Analysis
+- Includes exploratory and descriptive analysis of the ICU MIMIC-IV data that will be used for modelling.
+
+### Feature_Engineering_and_Preprocessing
+- Details the extraction and engineering for 27 features that will be used to predict CA mortality
+
+### Modelling
+- Hypertuned XGBoost model to predict CA mortality ibn ICU patients
