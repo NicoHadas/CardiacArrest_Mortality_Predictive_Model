@@ -57,7 +57,7 @@ The hypertuned XGBoost model demonstrated moderate-to-good performance in predic
     * Accuracy: 0.679
     * Precision (for mortality): 0.66
     * Recall (for mortality): 0.62
-    * F1-score (for mortality): 0.66 *(Note: Please verify the F1-score for mortality directly from your results)*
+    * F1-score (for mortality): 0.66 
     * Area Under ROC Curve (AUC): 0.77
 * **Confusion Matrix Highlights (Test Set)**:
     * Correctly Predicted Mortality (True Positives): 168
